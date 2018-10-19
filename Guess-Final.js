@@ -1,7 +1,7 @@
 //Start
 var answer = 0; //Initalize answer to 0
 var guess = 0; //Initalize guess to 0
-var turns = 1; //Initalize turns to 0
+var turns = 0; //Initalize turns to 0
 var games = 0; //Intalize games to 0
 var totalTurns = 0; //Initalize totalTurns to 0
 var averageTurns = 0; //Initalize averageTurns to 0
